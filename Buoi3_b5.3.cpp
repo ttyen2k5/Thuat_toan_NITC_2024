@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-   vector< vector<int> >& mt
+   vector< vector<int> >& mt;
    int col=mt[0].size();
    int row=mt.size();
    int colOne=-1;
